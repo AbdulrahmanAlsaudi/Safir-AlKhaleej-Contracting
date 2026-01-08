@@ -115,33 +115,26 @@
         </div>
 
     <style>
-  .card .card2 img {
+  .card-img {
     width: 100%;
-    height: 250px;
-    
+    height: 350px;
+    object-fit: contain;
   }
 
-  /* وضع اللابتوب */
-  @media (max-width: 1024px) and (max-width: 1366px){
-    .card .card2 img {
-      
-      width: 100%;
-    }
-  }
-
-  /* وضع الموبايل */
-  @media (max-width: 600px) {
-    .card .card2 img {
-      height: 250px;
+  /* لابتوب */
+  @media (max-width: 1366px) {
+    .card-img {
+      height: 280px;
     }
   }
 </style>
-    <div class="card">
-    <div class="card2">
-  <img src="img/Maintenance_finishing.webp" alt="صيانه وتشطيب"/>
-  <h3>صيانة وتشطيب</h3>
-</div>
-  </div>
+        <div class="card">
+  <img
+    src="img/Maintenance_finishing.webp"
+    alt="صيانه وتشطيب"
+    class="card-img"
+  />
+        </div>
         
         <div class="card">
      <img src="img/electri.webp" alt="أعمال كهربائية"/>
