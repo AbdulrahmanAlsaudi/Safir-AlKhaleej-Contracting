@@ -19,25 +19,26 @@ sidebar: ["الرئيسية", "الخدمات", "اعرف أكثر", "طلب م�
     // About
     aboutTitle: "مــن نحـن",
     aboutText:
-      "شـركة سفــير الخليج للمـقاولات تقدم خدمات احترافية في مجالات التصميم الهندسي والمقاولات، تنفيذ أعمال البناء والتشطيبات، الكهرباء، السباكة، أعمال الحدادة والدهان، وعزل الأسطح والمنشأت. نلتزم بأعلى معايير الجودة والدقة في تنفيذ المشاريع من خلال فريق هندسي وفني متخصص.",
+      "شـركة سفــير الخليج للمـقاولات تقدم خدمات احترافية في مجالات المقاولات الهندسية، تنفيذ أعمال البناء والتشطيبات، الكهرباء، السباكة، الصيانة، أعمال الحدادة والدهان، وعزل الأسطح والمنشأت. نلتزم بأعلى معايير الجودة والدقة في تنفيذ المشاريع من خلال فريق هندسي وفني متخصص.",
 
     // Services
     servicesTitle: "خـدمـاتـنا",
 
     services: [
       "مقاولات عامة",
-      "أعمال وصيانة الكهرباء",
-      "سباكة المياه",
       "صيانة عامة",
-      "هندسة وتصميم الديكور"
+      "صيانة وتشطيب",
+      "أعمال الكهرباء",
+      "أعمال سباكة"
     ],
 
     // Features
     featuresTitle: "تعـرف أكثر علـى خـدماتـنا",
     features: [
-      ["التصميم الهندسي", "تصميم معماري وإنشائي احترافي"],
-      ["البناء والتشطيب", "تنفيذ أعمال البناء والتشطيبات النهائية بجودة فائقة"],
+      ["مقاولات عامة", "تنفيذ معماري وإنشائي احترافي"],
+      ["صيانة عامة", "أعمال صيانة شاملة للمباني القائمة"],
       ["الترميم", "أعمال ترميم شاملة للمباني القائمة"],
+      ["البناء والتشطيب", "تنفيذ أعمال البناء والتشطيبات النهائية بجودة"],
       ["أعمال كهربائية وسباكة", "جميع الأعمال المتعلقة بالكهرباء والسباكة"],
       ["أعمال الحدادة والدهان", "تصنيع وتركيب الهناجر والدهانات الداخلية والخارجية"],
       ["العزل", "حلول فعالة لعزل الأسطح والمنشأت"]
@@ -84,15 +85,16 @@ sidebar: ["Home", "Services", "About", "Project Request", "Contact"],
 
     services: [
       "General Contracting",
-      "Electrical Works & Maintenance",
-      "Water Plumbing",
       "General Maintenance",
-      "Interior Design & Decoration"
+      "Maintenance & Finishing",
+      "Electrical Work",
+      "Water Plumbing"
     ],
 
     featuresTitle: "Learn More About Our Services",
     features: [
-      ["Engineering Design", "Professional architectural and structural design"],
+      ["General Contracting", "Professional architectural and construction implementation"],
+      ["General Maintenance", "Comprehensive maintenance of existing buildings"],
       ["Construction & Finishing", "High-quality construction and finishing works"],
       ["Renovation", "Comprehensive renovation services"],
       ["Electrical & Plumbing", "All electrical and plumbing services"],
